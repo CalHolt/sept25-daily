@@ -1,0 +1,12 @@
+/* Base Typography */
+body {
+  font-family: 'Noto Sans Linear B', sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #17181d;
+}
+
+/* Heading Fonts */
+h1, h2, h3 {
+  font-family: 'Bebas Neue', sans-serif;
+}

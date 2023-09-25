@@ -1,0 +1,15 @@
+@media (width > 50em) {
+  nav ul {
+    list-style: none;
+    
+    padding: 2rem;
+    margin: 1rem;
+  
+    display: flex;
+    background-color: white;
+  }
+  body {
+    font-size: 22px;
+  }
+
+}
